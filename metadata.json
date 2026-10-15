@@ -1,0 +1,6 @@
+{
+  "name": "Kids English Learning (7-9 Yosh)",
+  "description": "7-9 yoshli bolalar uchun ingliz tili: Alifbo (A-Z), Ranglar (10 xil), Raqamlar (1-50), Transport vositalari (10 xil) va qiziqarli interaktiv test rejimi ovozli talaffuz bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
